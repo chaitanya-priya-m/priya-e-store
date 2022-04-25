@@ -1,5 +1,7 @@
 # priya e-store a ECommerce Website
 
+#git link : https://github.com/chaitanya-priya-m/priya-e-store
+
 ## Run Locally
 
 
